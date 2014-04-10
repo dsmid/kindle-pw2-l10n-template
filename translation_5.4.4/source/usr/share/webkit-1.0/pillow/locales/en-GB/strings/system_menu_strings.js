@@ -1,2 +1,2 @@
-Settings	
-Shop in Kindle Store	
+הגדרות
+צא לקניות בחנות קינדל	
