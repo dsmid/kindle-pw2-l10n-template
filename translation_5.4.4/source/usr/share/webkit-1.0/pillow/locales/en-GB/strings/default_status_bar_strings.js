@@ -1,3 +1,3 @@
-מחובר
-מתחבר	
- · 	
+Connected מחובר
+Connecting מתחבר	
+ · 	  · 	
