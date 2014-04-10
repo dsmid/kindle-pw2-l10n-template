@@ -1,12 +1,12 @@
 Active Content Locked	
 Aeroplane Mode Locked	
-Aeroplane Mode	
+Aeroplane Mode	מצב טיסה
 An unexpected error has occurred. This can happen if you recently disconnected your Kindle from a computer without ejecting it safely. Please wait while your Kindle attempts to resolve this error.	
 An update is available for the following fonts: ({language}). Your Kindle must restart to complete the update.	
 Application Error	
 Battery Level is Low	
-Cancel	
-Close	
+Cancel	בטל
+Close	סגור
 Cloud Locked	
 Debugging Scripts	
 Details for this Special Offer are no longer available. Turn on wireless to receive the latest content.	
@@ -24,7 +24,7 @@ Goodreads on Kindle Locked
 Java Heap Low	
 Kindle Special Offers	
 Kindle Store Locked	
-Low Memory	
+Low Memory	זכרון נמוך
 MP3 Player Locked	
 No MP3 Files Found	
 OK	
@@ -42,13 +42,13 @@ Purchasing Locked
 Restart Required	
 Restart	
 Restarting your Kindle	
-Screen Off	
+Screen Off	סגור מסך
 Settings Menu Locked	
 Shipping Mode Failed	
 Social Networks Locked	
 The Java Heap has been low for too long.	
-The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet. Do you wish to go to the Web Browser to sign in to: {essid}?	
-The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet. Do you wish to go to the Web Browser to sign in?	
+The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet. Do you wish to go to the Web Browser to sign in to: {essid}?	  הרשת האלחוטת דורש התחברות נוספת או שהוא חסום לאתר אמזון. האם לפתוח הדפדפן לצורך התחברות לרשת {essid}?
+The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet. Do you wish to go to the Web Browser to sign in?	    הרשת האלחוטת דורש התחברות נוספת או שהוא חסום לאתר אמזון. האם לפתוח הדפדפן לצורך התחברות לרשת?
 The application is not responding. Please wait while your Kindle restarts.	
 The item failed to close properly. Unless you close this dialog box your device will restart in {restartTime,plural,=0 {# seconds} one {# second} other {# seconds}}.	
 The selected application could not be started. Please try again.	
@@ -82,7 +82,7 @@ We are unable to process your request. Please try again later.
 Web Browser Locked	
 Wi-Fi Login Required	
 Wi-Fi Settings Locked	
-Wireless is turned off. Do you want to turn on wireless?	
+Wireless is turned off. Do you want to turn on wireless?	האלחוטי מכובה. האם לפתוח?
 You already have {count,plural,=0 {no orders pending} one {an order pending} other { # orders pending}} for this special offer.	
 You must register your Kindle to make a purchase.	
 Your Kindle fonts are updating. This can take a moment...	
