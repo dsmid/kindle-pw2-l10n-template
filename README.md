@@ -1,2 +1,2 @@
-Klingon localization for Kindle Paperwhite 1 & 2
+AryehBeitz hebrew localization for Kindle Paperwhite 1 & 2
 ================================================
